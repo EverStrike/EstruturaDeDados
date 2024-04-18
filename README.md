@@ -1,4 +1,4 @@
-# Portfólio de Estruturas de Dados em C++
+# Estudos de Estruturas de Dados em C++
 
 Este repositório contém minha jornada de aprendizado em estruturas de dados, seguindo as aulas do professor Douglas Maiole no YouTube. Embora o estudo ainda não esteja completo, ele representa uma das minhas primeiras dedicações imersivas e progresso contínuo na área de tecnologia.
 
