@@ -1,6 +1,6 @@
 # Estudos de Estruturas de Dados em C++
 
-Este repositório contém minha jornada de aprendizado em estruturas de dados, seguindo as aulas do professor Douglas Maiole disponíveis em: Estrutura de Dados com professor Douglas Maiole .Embora o estudo ainda não esteja completo, ele representa uma das minhas primeiras dedicações imersivas e progresso contínuo na área de tecnologia.
+  Este repositório contém minha jornada de aprendizado em estruturas de dados, seguindo as aulas do professor Douglas Maiole disponíveis em: [https://youtu.be/-twvgnfOnVQ?si=y3nOngSmGBidUvW] . Embora o estudo ainda não esteja completo, ele representa uma das minhas primeiras dedicações imersivas e progresso contínuo na área de tecnologia.
 
 ## Projetos Incluídos
 
